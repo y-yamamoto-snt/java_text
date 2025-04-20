@@ -7,8 +7,8 @@ public class Test {
         String str          = "Hello World!";
 
         // 整数の足し算
-        int new_integer = integer + 4;
-        System.out.printf("integer + 4 = %d\n", new_integer);
+        int newInteger = integer + 4;
+        System.out.printf("integer + 4 = %d\n", newInteger);
 
         // 小数の計算
         double newDoubleNum1 = doubleNum1 * 3.2;
