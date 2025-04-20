@@ -1,10 +1,10 @@
 public class Test {
     public static void main(String[] args) {
         // 整数(int), 小数(double), 文字列(String)の変数を定義します。
-        int integer         = 1;
+        int integer        = 1;
         double doubleNum1  = 9.64;
         double doubleNum2  = 2.38;
-        String str          = "Hello World!";
+        String str         = "Hello World!";
 
         // 整数の足し算
         int newInteger = integer + 4;
